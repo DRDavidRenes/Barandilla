@@ -1,0 +1,14 @@
+C:\Users\deivi\source\repos\BarandillaApp\bin\Debug\BarandillaApp.exe.config
+C:\Users\deivi\source\repos\BarandillaApp\bin\Debug\BarandillaApp.exe
+C:\Users\deivi\source\repos\BarandillaApp\bin\Debug\BarandillaApp.pdb
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\BarandillaApp.csproj.AssemblyReference.cache
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\MainWindow.baml
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\MainWindow.g.cs
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\App.g.cs
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\BarandillaApp_MarkupCompile.cache
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\BarandillaApp.g.resources
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\BarandillaApp.Properties.Resources.resources
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\BarandillaApp.csproj.GenerateResource.cache
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\BarandillaApp.csproj.CoreCompileInputs.cache
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\BarandillaApp.exe
+C:\Users\deivi\source\repos\BarandillaApp\obj\Debug\BarandillaApp.pdb
